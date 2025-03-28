@@ -1,2 +1,2 @@
 # Develnext-Projects
-Develnext projects
+Develnext projects writen in PHP, CSS, JAVA...
